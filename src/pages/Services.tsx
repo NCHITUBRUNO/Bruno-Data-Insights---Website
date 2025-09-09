@@ -12,11 +12,11 @@ const Services = () => {
         <div className="space-y-4">
           <div className="border-l-4 border-blue-600 pl-4">
             <h4 className="font-semibold text-gray-900">MTN Mobile Money</h4>
-            <p className="text-gray-600">+237 6XX XXX XXX</p>
+            <p className="text-gray-600">+237 652 499 571</p>
           </div>
           <div className="border-l-4 border-orange-500 pl-4">
             <h4 className="font-semibold text-gray-900">Orange Money</h4>
-            <p className="text-gray-600">+237 6XX XXX XXX</p>
+            <p className="text-gray-600">+237 692 384 721</p>
           </div>
           <div className="border-l-4 border-green-600 pl-4">
             <h4 className="font-semibold text-gray-900">UBA Bank Account</h4>
@@ -95,7 +95,7 @@ const Services = () => {
   const packages = [
     {
       name: 'Starter Package',
-      price: '1,500,000 FCFA',
+      price: '150,000 FCFA',
       description: 'Perfect for small businesses getting started with data analytics',
       features: [
         'Basic Power BI Dashboard',
@@ -106,7 +106,7 @@ const Services = () => {
     },
     {
       name: 'Professional Package',
-      price: '4,500,000 FCFA',
+      price: '200,000 FCFA',
       description: 'Comprehensive solution for growing businesses',
       features: [
         'Advanced BI Solution',
