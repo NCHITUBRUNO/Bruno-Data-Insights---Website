@@ -1,4 +1,3 @@
-import React from 'react';
 import { useState } from 'react';
 import { BarChart3, PieChart, Database, Cloud, Users, BookOpen } from 'lucide-react';
 
