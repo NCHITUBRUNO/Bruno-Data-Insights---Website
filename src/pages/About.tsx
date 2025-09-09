@@ -10,7 +10,7 @@ const About = () => {
     {
       icon: BookOpen,
       title: 'Training Expert',
-      description: 'Delivered 50+ training sessions to corporate teams worldwide'
+      description: 'Delivered 20+ training sessions to data professionals'
     },
     {
       icon: Users,
@@ -31,14 +31,13 @@ const About = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h1 className="text-5xl font-bold mb-6">About Bruno</h1>
-              <p className="text-xl mb-6 leading-relaxed">
-                A passionate data analyst and business intelligence expert with over 8 years 
-                of experience transforming raw data into strategic business insights.
+              <h1 className="text-5xl font-bold mb-6">Saah Bruno</h1>
+              <p className="text-xl mb-6 leading-relaxed text-justify">
+                Data Solutions Professional,Speciliazed in Building End-to-End Data Platforms from Ingestion To Insight with Power BI, Fabric, Database Administration & Data Science Workloads, turning raw data into strategic value.
               </p>
-              <p className="text-lg opacity-90">
-                Specializing in Microsoft ecosystem solutions, Azure cloud services, and 
-                comprehensive data analytics training programs.
+              <p className="text-xl mb-6 leading-relaxed text-justify">
+                I'm results-driven professional trained and certified as a Data Analyst skilled in Power BI, Fabric, Tableau, and Python, with expertise in data modeling, ETL, predictive analytics, 
+                and dynamic dashboards. I deliver actionable insights that drive business growth and have led junior teams and managed projects effectively.
               </p>
             </div>
             <div className="bg-white bg-opacity-10 rounded-lg p-8">
